@@ -1,8 +1,6 @@
 # Library
 
-This project is made during my work at Digital School. 
+This project was developed during my time at Digital School. It represents a small desktop application for a library.
 
-It represent small desktop application for library. 
-
-To write the program, we used the Eclipse IDE development environment, and it was also necessary to install the Java Development Kit on the computers. For graphical user interfaces, JavaFx was used, requiring the installation of the SceneBuilder graphical environment creation support tool. For storing data we used MySql database and all is hosted localy.
+To write the program, we used the Eclipse IDE development environment. It was also necessary to install the Java Development Kit on the computers. For graphical user interfaces, JavaFX was employed, requiring the installation of the SceneBuilder graphical environment creation support tool. To store data, we utilized the MySQL database, and everything is hosted locally
 
